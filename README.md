@@ -1,16 +1,43 @@
 ## Hi there 👋
 
-<!--
-**Yatheendra-R/Yatheendra-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Software+Developer;AI%2FML+Enthusiast;DSA+Learner&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science student  
+- 💻 Focused on Software Development and AI/ML  
+- 🧠 Strong interest in Data Structures & Algorithms  
+- 🌱 Currently strengthening DSA using C/C++  
+- ⚙️ Proficient in C, C++, and Python  
+- 🔭 Building projects to apply concepts to real-world problems  
+
+---
+
+## 🚀 Skills
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yatheendra-R&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatheendra-R&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Yatheendra-R&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (add later)
