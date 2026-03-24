@@ -1,6 +1,6 @@
 💻 Computer Science Student | Software Developer | AI/ML Enthusiast | DSA Practitioner
 
-## Hi there 👋
+##👋 Welcome to my GitHub Profile
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Software+Developer;AI%2FML+Enthusiast;DSA+Learner&center=true&width=500&height=45">
@@ -29,16 +29,11 @@
 ## 📌 Projects
 
 ### ⭐ Best Projects
-- 🚀 Add your top 2–3 projects here  
-- Example:  
-  - DSA Problem Solver (C++)  
-  - Mini AI/ML Project  
+- 🚀 Projects will be showcased here soon  
 
 ### 🔄 Currently Working On
-- 🔧 Add your current project  
-- Example:  
-  - Arduino Sound Sensor + Python Data Logging + GUI  
-
+- 🔧 Actively working on projects, updates coming soon
+  
 ---
 
 ## 📊 GitHub Stats
@@ -52,6 +47,6 @@
 ## 📫 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/yatheendra-r-98844b3a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
