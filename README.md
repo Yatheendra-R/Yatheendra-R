@@ -26,9 +26,18 @@
 
 ---
 
-## 📌 Featured Projects
-- 🚀 Add your best projects here (update soon)
-- 💡 Example: DSA Practice, Mini Projects, AI/ML Projects
+## 📌 Projects
+
+### ⭐ Best Projects
+- 🚀 Add your top 2–3 projects here  
+- Example:  
+  - DSA Problem Solver (C++)  
+  - Mini AI/ML Project  
+
+### 🔄 Currently Working On
+- 🔧 Add your current project  
+- Example:  
+  - Arduino Sound Sensor + Python Data Logging + GUI  
 
 ---
 
@@ -40,19 +49,9 @@
 
 ---
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yatheendra-R&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Yatheendra-R/Yatheendra-R/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 ## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/yatheendra-r-98844b3a3/
+<p>
+  <a href="https://www.linkedin.com/in/yatheendra-r-98844b3a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
