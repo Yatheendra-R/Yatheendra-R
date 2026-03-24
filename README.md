@@ -1,3 +1,5 @@
+💻 Computer Science Student | Software Developer | AI/ML Enthusiast | DSA Practitioner
+
 ## Hi there 👋
 
 <p align="center">
@@ -24,6 +26,12 @@
 
 ---
 
+## 📌 Featured Projects
+- 🚀 Add your best projects here (update soon)
+- 💡 Example: DSA Practice, Mini Projects, AI/ML Projects
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yatheendra-R&show_icons=true&theme=tokyonight&hide_border=true">
@@ -39,5 +47,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Yatheendra-R/Yatheendra-R/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
 ## 📫 Connect with me
-- LinkedIn: (add later)
+- LinkedIn: https://www.linkedin.com/in/yatheendra-r-98844b3a3/
