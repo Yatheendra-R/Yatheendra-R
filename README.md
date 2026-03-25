@@ -1,6 +1,6 @@
 💻 Computer Science Student | Software Developer | AI/ML Enthusiast | DSA Practitioner
 
-##👋 Welcome to my GitHub Profile
+## 👋 Welcome to my GitHub Profile
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Software+Developer;AI%2FML+Enthusiast;DSA+Learner&center=true&width=500&height=45">
