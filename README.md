@@ -14,15 +14,26 @@
 - 🧠 Strong interest in Data Structures & Algorithms  
 - 🌱 Currently improving DSA using C/C++  
 - ⚙️ Skilled in C, C++, Python & MySQL  
-- 🔬 Working on real-world engineering problems  
 
 ---
 
 ## 🔬 Featured Work  
-- 💡 **Patent Filed** – Water pipeline monitoring system  
-  - Detects leakage/blockages using triangulation algorithms  
-- 🔧 Currently working on **upgrading & laying underground water/gas pipelines**  
-- 🚀 Applying algorithms to optimize infrastructure systems  
+- 💡 **Patent Filed** – IoT-Based Noise Monitoring System  
+  - Built using Arduino + Python  
+
+---
+
+## 🔄 Currently Working On  
+- Research on stress, anxiety, and student performance (under review)  
+- Water pipeline monitoring system for detecting leakage and blockages using triangulation algorithms  
+- Upgrading and laying underground water/gas pipeline systems  
+- Fall detection project  
+
+---
+
+## 📌 Projects  
+- Sci-Fit Calculator (Python + MySQL using an online server)  
+- Tkinter-based GUI applications (Tic-Tac-Toe, FLAMES)  
 
 ---
 
@@ -33,19 +44,6 @@
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql">
 </p>
-
----
-
-## 📌 Projects  
-
-### ⭐ Key Projects  
-- 🚧 Water Pipeline Monitoring System *(Patent Filed)*  
-- 📊 Network Analysis & Optimization Projects  
-- 🤖 AI/ML-based experimental models *(coming soon)*  
-
-### 🔄 Currently Working On  
-- 🔧 Real-world pipeline infrastructure projects  
-- 📈 DSA problem-solving & optimization  
 
 ---
 
