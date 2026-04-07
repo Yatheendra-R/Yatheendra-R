@@ -1,42 +1,55 @@
-💻 Computer Science Student | Software Developer | AI/ML Enthusiast | DSA Practitioner
+💻 Computer Science Student | Software Developer | AI/ML Enthusiast | DSA Practitioner  
 
-## 👋 Welcome to my GitHub Profile
+## 👋 Welcome to my GitHub Profile  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Software+Developer;AI%2FML+Enthusiast;DSA+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;AI%2FML+Enthusiast;DSA+Practitioner;Problem+Solver&center=true&width=500&height=45">
 </p>
 
 ---
 
-- 🎓 Computer Science student  
-- 💻 Focused on Software Development and AI/ML  
+## 🚀 About Me  
+- 🎓 Computer Science Student  
+- 💻 Passionate about Software Development & AI/ML  
 - 🧠 Strong interest in Data Structures & Algorithms  
-- 🌱 Currently strengthening DSA using C/C++  
-- ⚙️ Proficient in C, C++, and Python  
-- 🔭 Building projects to apply concepts to real-world problems  
+- 🌱 Currently improving DSA using C/C++  
+- ⚙️ Skilled in C, C++, Python & MySQL  
+- 🔬 Working on real-world engineering problems  
 
 ---
 
-## 🚀 Skills
+## 🔬 Featured Work  
+- 💡 **Patent Filed** – Water pipeline monitoring system  
+  - Detects leakage/blockages using triangulation algorithms  
+- 🔧 Currently working on **upgrading & laying underground water/gas pipelines**  
+- 🚀 Applying algorithms to optimize infrastructure systems  
+
+---
+
+## 🛠️ Skills  
 <p>
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c">
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus">
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql">
 </p>
 
 ---
 
-## 📌 Projects
+## 📌 Projects  
 
-### ⭐ Best Projects
-- 🚀 Projects will be showcased here soon  
+### ⭐ Key Projects  
+- 🚧 Water Pipeline Monitoring System *(Patent Filed)*  
+- 📊 Network Analysis & Optimization Projects  
+- 🤖 AI/ML-based experimental models *(coming soon)*  
 
-### 🔄 Currently Working On
-- 🔧 Actively working on projects, updates coming soon
-  
+### 🔄 Currently Working On  
+- 🔧 Real-world pipeline infrastructure projects  
+- 📈 DSA problem-solving & optimization  
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yatheendra-R&show_icons=true&theme=tokyonight&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatheendra-R&layout=compact&theme=tokyonight&hide_border=true">
@@ -44,7 +57,7 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me  
 <p>
   <a href="https://www.linkedin.com/in/yatheendra-r-98844b3a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
