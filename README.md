@@ -21,9 +21,10 @@ I enjoy solving real-world problems through **coding, research, and innovative s
 
 * 🎓 Computer Science Student
 * 💻 Passionate about **Software Development & AI/ML**
-* 🧠 Strong interest in **Data Structures & Algorithms**
+* 🧠 Strong interest in **Data Structures & Algorithms (DSA)** and **Design & Analysis of Algorithms (DAA)**
 * 🌱 Currently improving **DSA using C/C++**
-* ⚙️ Skilled in **C, C++, Python & MySQL**
+* ⚙️ Skilled in **C, C++, Java, Python & MySQL**
+* 🧩 Strong understanding of **Object-Oriented Programming (OOP) concepts**
 
 ---
 
@@ -64,7 +65,16 @@ I enjoy solving real-world problems through **coding, research, and innovative s
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,git,github,vscode" />
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Data%20Structures-green?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Algorithms-purple?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -74,22 +84,6 @@ I enjoy solving real-world problems through **coding, research, and innovative s
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yatheendra-R&show_icons=true&count_private=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatheendra-R&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yatheendra-R&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yatheendra-R&theme=tokyo-night" />
 </p>
 
 ---
