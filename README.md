@@ -79,15 +79,6 @@ I enjoy solving real-world problems through **coding, research, and innovative s
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yatheendra-R&show_icons=true&count_private=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatheendra-R&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
