@@ -55,6 +55,9 @@ I enjoy solving real-world problems through **coding, research, and innovative s
 * 🔹 **Noise Monitoring System (Patent Project)**
   Arduino + Python IoT system for monitoring noise levels in silent zones
 
+* An AI/ML-based project that analyzes customer feedback and classifies sentiment into Positive, Negative, and Neutral using Natural Language Processing techniques and machine learning models.
+  
+
 * 🔹 **Tkinter GUI Applications**
 
   * Tic-Tac-Toe
