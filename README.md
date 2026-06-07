@@ -53,10 +53,10 @@ I enjoy solving real-world problems through **coding, research, and innovative s
   - Python + MySQL application connected to an online database server.
 
 * 🔹 **Noise Monitoring System (Patent Project)**
-  IoT-based system using Arduino and Python for real-time noise level monitoring in silent zones.
+  - IoT-based system using Arduino and Python for real-time noise level monitoring in silent zones.
 
 * 🔹 **Customer Feedback Sentiment Analyzer**
-     An AI/ML-based project that analyzes customer feedback and classifies sentiment into Positive, Negative, and Neutral using Natural Language Processing (NLP) techniques and machine learning models.
+  - An AI/ML-based project that analyzes customer feedback and classifies sentiment into Positive, Negative, and Neutral using Natural Language Processing (NLP) techniques and machine learning models.
   
 * 🔹 **Tkinter GUI Applications**
 
