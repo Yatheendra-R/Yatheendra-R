@@ -50,7 +50,7 @@ I enjoy solving real-world problems through **coding, research, and innovative s
 ## 📌 Projects
 
 * 🔹 **Sci-Fit Calculator**
-  Python + MySQL application connected to an online database server.
+  -Python + MySQL application connected to an online database server.
 
 * 🔹 **Noise Monitoring System (Patent Project)**
   IoT-based system using Arduino and Python for real-time noise level monitoring in silent zones.
