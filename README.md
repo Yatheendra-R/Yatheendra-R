@@ -50,15 +50,14 @@ I enjoy solving real-world problems through **coding, research, and innovative s
 ## 📌 Projects
 
 * 🔹 **Sci-Fit Calculator**
-  Python + MySQL with online database server
+  Python + MySQL application connected to an online database server.
 
 * 🔹 **Noise Monitoring System (Patent Project)**
-  Arduino + Python IoT system for monitoring noise levels in silent zones
+  IoT-based system using Arduino and Python for real-time noise level monitoring in silent zones.
 
-* 🔹 An **Customer Feedback Sentiment Analyzer**
-     AI/ML-based project that analyzes customer feedback and classifies sentiment into Positive, Negative, and Neutral using Natural Language Processing techniques and machine learning models.
+* 🔹 **Customer Feedback Sentiment Analyzer**
+     An AI/ML-based project that analyzes customer feedback and classifies sentiment into Positive, Negative, and Neutral using Natural Language Processing (NLP) techniques and machine learning models.
   
-
 * 🔹 **Tkinter GUI Applications**
 
   * Tic-Tac-Toe
